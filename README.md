@@ -172,3 +172,22 @@ GitHub: [@harun1607](https://github.com/harun1607)
 ## Repository
 
 [OmnibisApp – GitHub](https://github.com/harun1607/OmnibisApp)
+
+
+## Dokumentasi Tampilan Aplikasi
+
+### 1. Halaman Dashboard
+
+![Dashboard OmnibisApp](screenshots/dashboard.png)
+
+### 2. Halaman Transaksi
+
+![Transaksi OmnibisApp](screenshots/transaksi.png)
+
+### 3. Halaman Pengelolaan Barang
+
+![Barang OmnibisApp](screenshots/barang.png)
+
+### 4. Halaman Laporan
+
+![Laporan OmnibisApp](screenshots/laporan.png)
